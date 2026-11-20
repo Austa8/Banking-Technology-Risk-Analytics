@@ -77,9 +77,13 @@ The Tableau executive risk analytics story includes:
 
 **Tableau Public Link:** To be added after publication.
 
-**Dashboard Screenshots:** To be added.
+### Dashboard Screenshots
 
-## SQL Analysis
+#### Executive Risk Overview
+
+![Executive Risk Overview](screenshots/165E9A4C-2C8D-4895-803E-604DC8845E35.jpeg)
+
+## SQL Analysis## SQL Analysis
 
 SQL queries and validation exercises will be added as the analysis is developed and tested.
 
