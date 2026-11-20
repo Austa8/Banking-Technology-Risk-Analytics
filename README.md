@@ -83,6 +83,12 @@ The Tableau executive risk analytics story includes:
 
 ![Executive Risk Overview](screenshots/165E9A4C-2C8D-4895-803E-604DC8845E35.jpeg)
 
+#### Remediation Performance
+![Executive Summary & Strategic Recommendations](screenshots/AAF26D68-94CC-4D50-B122-A4631BD9EFC0.jpeg)
+
+#### Executive Summary & Strategic Recommendations
+![Remediation Performance](screenshots/97C1CF62-FE4F-492B-8145-EF8DAB8C6ED8.jpeg)
+
 ## SQL Analysis## SQL Analysis
 
 SQL queries and validation exercises will be added as the analysis is developed and tested.
